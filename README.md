@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm Prasanth Rao
-##### Python Developer
+#### I'm Prasanth Rao <br/> Python Developer
 <!--
 **Prasanth-Rao/Prasanth-Rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
