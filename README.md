@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on an IT company located at Chennai,TamilNadu
-- 🌱 I’m currently learning Angular and Machine learning
+- 🌱 I’m currently learning <b>Angular and Machine learning</b>
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything related to Python
