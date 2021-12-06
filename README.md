@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+### Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sprao-cs&show_icons=true)
