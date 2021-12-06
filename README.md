@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-### Stats  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Mostly used languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sprao-cs&show_icons=true) &emsp; &emsp;
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sprao-cs&theme=red-white)
 
