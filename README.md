@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 
 ### Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sprao-cs&show_icons=true)
+
+### Mostly used languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sprao-cs&theme=red-white)
+
+### Profile View Count                                         
+![Profile View Counter](https://komarev.com/ghpvc/?username=sprao-cs)      
+
+### Repository view count
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sprao-cs/SentimentAnalyzer-Django-Scikit-Learn)
