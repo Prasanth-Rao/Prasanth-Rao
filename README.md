@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on an IT company located at Chennai,TamilNadu
-- 🌱 I’m currently learning <b>Angular and Machine learning</b>
+- 🔭 I’m currently working on an IT company located at Hosur,TamilNadu
+- 🌱 I’m currently focusing on learning <b>AI & ML, NLP, LLMs</b>
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to Python
+- 💬 Ask me about anything related to Python and its framework
 - 📫 You can reach me by sending an email to prasanthraos1798@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
